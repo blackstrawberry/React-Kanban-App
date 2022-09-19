@@ -7,7 +7,7 @@ export const minuteState = atom({
 });
 
 export const hourSelector = selector({
-  key: "hour",
+  key: "hours",
   get:({ get }) => {
     const minutes = get(minuteState);
     return minutes / 60;

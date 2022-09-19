@@ -2,4 +2,4 @@
 
 based on : nomadcoders react-master-class
 
-preview page : https://onoff-jonghan-kim.github.io/React-Kanban-App/
+preview page : https://blackstrawberry.github.io/React-Kanban-App/
